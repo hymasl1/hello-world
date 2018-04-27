@@ -1,2 +1,3 @@
 # hello-world
-Just a repository
+Just a repositor
+I am just writing a little bit about myself to practice commit changes.
